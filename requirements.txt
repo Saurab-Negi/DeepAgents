@@ -1,4 +1,5 @@
 langchain
 langchain-openai
 python-dotenv
-python -m pip install -r requirements.txt
+langchain-google-genai
+langchain-anthropic
